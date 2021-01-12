@@ -1,0 +1,1 @@
+yarn add axios nodemon // baixar o pacote da yarn
